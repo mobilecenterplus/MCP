@@ -1,2 +1,2 @@
-Qiosz
-Malr
+Mobile Center Plus
+Diaa
