@@ -272,7 +272,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: Apps Manager from MCP
 Version: 1.6.1-4
 Architecture: iphoneos-arm
-Description:This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps 
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps 
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: TIGI Software
@@ -287,7 +287,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: Filza File Manager from MCP
 Version: 3.8.2-4
 Architecture: iphoneos-arm
-Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+ 
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+ 
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: TIGI Software
@@ -302,7 +302,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: Filza File Manager 64-bit from MCP
 Version: 3.8.2-4
 Architecture: iphoneos-arm
-Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: TIGI Software
@@ -314,16 +314,48 @@ Size: 8388608
 MD5sum: MD5: eb947177c58647ec420a31af4610a64c
 
 Package: https://www.facebook.com/MobileCenterPlus
-Name: Filza File Manager 64-bit from MCP
-Version: 3.8.2-4
+Name: HideJB from MCP
+Version: 2.1.1
 Architecture: iphoneos-arm
-Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Description: Bybass jailbreak detection in certain apps
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
-Author: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
+Author: TTJB Team
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Section: Tweaks
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Filename: deb/hidejb_2.1.1.deb
+Size: 180224
+MD5sum: MD5: 519e773c3bbfa2af8625c45aba01c552
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: iCleaner from MCP
+Version: 7.9.1
+Architecture: iphoneos-arm
+Description: The first real iOS system cleaner & optimizer
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Ivano Bilenchi
+Depends: firmware (>= 4.0), apt | apt7, findutils
 Section: Utilities
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
-Size: 8388608
-MD5sum: MD5: eb947177c58647ec420a31af4610a64c
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Filename: deb/icleaner_7.9.1.deb
+Size: 4784128
+MD5sum: MD5: 29af21e056acc8dd1dc693ef00e1e175
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: iCleaner Pro from MCP
+Version: 7.9.1
+Architecture: iphoneos-arm
+Description: The first real iOS system cleaner & optimizer
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Section: Utilities
+Depiction: https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Filename: deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4788224
+MD5sum: MD5: ccd722461350e28e2e0b5a029416ca6c
+
+
