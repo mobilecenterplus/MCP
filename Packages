@@ -118,4 +118,64 @@ Filename: deb/choicy_1.3.1.deb
 Size: 118784
 MD5sum: f6c6eabb0107db711390387a241c3e8e
 
+Package: com.thx.chpubg.cw
+Name: CHPUBG
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: cleans PUBG game files to avoid absentee ban
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Thx
+Depends: mobilesubstrate, firmware (>= 9.0)
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.thx.chpubg
+Filename: deb/chpubg_1.5.1.deb
+Size: 888384
+MD5sum: 377bd3361e36fcd13c81124646ffbbc2
+
+Package: com.cokepokes.appstoreplusplus.cw
+Name: AppStore++
+Version: 0.9.15
+Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
+Size: 3018752
+MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
+
+Package: com.cokepokes.appstoreplusplus.cw
+Name: AppStore++
+Version: 0.9.14-11
+Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
+Size: 3006464
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+
+Package: com.cokepokes.appstoreplusplus.cw
+Name: AppStore++
+Version: 0.9.14-10
+Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
+Size: 3006464
+MD5sum: a59af6a65fc6657caab9500a49d679ce
+
 
