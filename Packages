@@ -197,7 +197,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: HackApps from MCP
 Version: 2.0
 Architecture: iphoneos-arm
-Description: The all-in-one tweak for WhatsApp Messenger
+Description: HackApps will allow you to hide native applications for iOS
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: hacker59
@@ -212,7 +212,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: AltStore from MCP
 Version: 1.4.5
 Architecture: iphoneos-arm
-Description: The all-in-one tweak for WhatsApp Messenger
+Description: Jailbroken version of AltStore with on device signing feauture.
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: Riley Testut
@@ -227,7 +227,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: SafeShutdown from MCP
 Version: 1.72
 Architecture: iphoneos-arm
-Description: The all-in-one tweak for WhatsApp Messenger
+Description: Avoid re-jailbreaking when battery runs out.
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: Kurrt
@@ -242,7 +242,7 @@ Package: https://www.facebook.com/MobileCenterPlus
 Name: SafeShutdown from MCP
 Version: 1.72
 Architecture: iphoneos-arm
-Description: The all-in-one tweak for WhatsApp Messenger
+Description: Avoid re-jailbreaking when battery runs out.
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: Kurrt
