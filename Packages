@@ -1,5 +1,5 @@
 Package: me.liuming.apphider.cw
-Name: App Hider(应用隐藏)
+Name: App Hider(2.0.3)
 Version: 2.0.3
 Architecture: iphoneos-arm
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
@@ -8,13 +8,13 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 Filename: deb/apphider_2.0.3.deb
 Size: 2748416
 MD5sum: 9fafd6e77780bc55f505b12c9749f98a
 
 Package: me.liuming.apphider.cw
-Name: App Hider(应用隐藏)
+Name: App Hider(2.0.5)
 Version: 2.0.5
 Architecture: iphoneos-arm
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
@@ -23,13 +23,13 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 Filename: deb/apphider_2.0.5.deb
 Size: 2748416
 MD5sum: 77555235964957380ff8ed77b46014c0
 
 Package: me.liuming.apphider.cw
-Name: App Hider(应用隐藏)
+Name: App Hider(2.0.6)
 Version: 2.0.6
 Architecture: iphoneos-arm
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
@@ -38,13 +38,13 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 Filename: deb/apphider_2.0.6.deb
 Size: 2756608
 MD5sum: 375191a7f9045e97d5b245dab259d673
 
 Package: com.tigisoftware.appdatamanager.cw
-Name: Apps Manager
+Name: Apps Manager 1.6.0-9
 Version: 1.6.0-9
 Architecture: iphoneos-arm
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
@@ -53,13 +53,13 @@ Maintainer: Diaa Aldeen
 Author: TIGI Software
 Depends: firmware (>= 7.0)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.tigisoftware.appdatamanager
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Filename: deb/appsmanager_1.6.0-9.deb
 Size: 2465792
 MD5sum: 0ba512179dc4188e8858721268ff93f7
 
 Package: com.tigisoftware.appdatamanager.cw
-Name: Apps Manager
+Name: Apps Manager 1.5.3
 Version: 1.5.3
 Architecture: iphoneos-arm
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
@@ -68,13 +68,13 @@ Maintainer: Diaa Aldeen
 Author: TIGI Software
 Depends: firmware (>= 7.0)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.tigisoftware.appdatamanager
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Filename: deb/appsmanager_1.5.3.deb
 Size: 2457600
 MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
 
 Package: com.opa334.choicy.cw
-Name: Choicy
+Name: Choicy 1.3.2
 Version: 1.3.2
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -83,13 +83,13 @@ Maintainer: Diaa Aldeen
 Author: opa334
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Filename: deb/choicy_1.3.2.deb
 Size: 106496
 MD5sum: 22f10bddce96af4fd0f6db7100bbab8d
 
 Package: com.opa334.choicy.cw
-Name: Choicy
+Name: Choicy 1.3
 Version: 1.3
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -98,13 +98,13 @@ Maintainer: Diaa Aldeen
 Author: opa334
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Filename: deb/choicy_1.3.deb
 Size: 118,784
 MD5sum: 3bc17c94ffbd77af82626ed9be9f4c55
 
 Package: com.opa334.choicy.cw
-Name: Choicy
+Name: Choicy 1.3.1
 Version: 1.3.1
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -113,13 +113,13 @@ Maintainer: Diaa Aldeen
 Author: opa334
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Filename: deb/choicy_1.3.1.deb
 Size: 118784
 MD5sum: f6c6eabb0107db711390387a241c3e8e
 
 Package: com.thx.chpubg.cw
-Name: CHPUBG
+Name: CHPUBG 1.5.1
 Version: 1.5.1
 Architecture: iphoneos-arm
 Description: cleans PUBG game files to avoid absentee ban
@@ -128,13 +128,13 @@ Maintainer: Diaa Aldeen
 Author: Thx
 Depends: mobilesubstrate, firmware (>= 9.0)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.thx.chpubg
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chpubgDp
 Filename: deb/chpubg_1.5.1.deb
 Size: 888384
 MD5sum: 377bd3361e36fcd13c81124646ffbbc2
 
 Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++
+Name: AppStore++ 0.9.15
 Version: 0.9.15
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -143,13 +143,13 @@ Maintainer: Diaa Aldeen
 Author: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
 Size: 3018752
 MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
 
 Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++
+Name: AppStore++ 0.9.14-11
 Version: 0.9.14-11
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -158,13 +158,13 @@ Maintainer: Diaa Aldeen
 Author: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 
 Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++
+Name: AppStore++ 0.9.14-10
 Version: 0.9.14-10
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -173,7 +173,7 @@ Maintainer: Diaa Aldeen
 Author: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.cokepokes.appstoreplusplus
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a59af6a65fc6657caab9500a49d679ce
