@@ -1,5 +1,5 @@
-Package: me.liuming.apphider.cw
-Name: App Hider(2.0.3)
+Package: https://www.facebook.com/MobileCenterPlus
+Name: App Hider from MCP
 Version: 2.0.3
 Architecture: iphoneos-arm
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
@@ -14,9 +14,9 @@ Size: 2748416
 MD5sum: 9fafd6e77780bc55f505b12c9749f98a
 
 Package: me.liuming.apphider.cw
-Name: App Hider(2.0.5)
+Name: App Hider 
 Version: 2.0.5
-Architecture: iphoneos-arm
+Architecture: https://www.facebook.com/MobileCenterPlus
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
@@ -28,8 +28,8 @@ Filename: deb/apphider_2.0.5.deb
 Size: 2748416
 MD5sum: 77555235964957380ff8ed77b46014c0
 
-Package: me.liuming.apphider.cw
-Name: App Hider(2.0.6)
+Package: https://www.facebook.com/MobileCenterPlus
+Name: App Hider from MCP
 Version: 2.0.6
 Architecture: iphoneos-arm
 Description: Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
@@ -43,8 +43,8 @@ Filename: deb/apphider_2.0.6.deb
 Size: 2756608
 MD5sum: 375191a7f9045e97d5b245dab259d673
 
-Package: com.tigisoftware.appdatamanager.cw
-Name: Apps Manager 1.6.0-9
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Apps Manager from MCP
 Version: 1.6.0-9
 Architecture: iphoneos-arm
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
@@ -58,8 +58,8 @@ Filename: deb/appsmanager_1.6.0-9.deb
 Size: 2465792
 MD5sum: 0ba512179dc4188e8858721268ff93f7
 
-Package: com.tigisoftware.appdatamanager.cw
-Name: Apps Manager 1.5.3
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Apps Manager from MCP
 Version: 1.5.3
 Architecture: iphoneos-arm
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
@@ -73,8 +73,8 @@ Filename: deb/appsmanager_1.5.3.deb
 Size: 2457600
 MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
 
-Package: com.opa334.choicy.cw
-Name: Choicy 1.3.2
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Choicy from MCP
 Version: 1.3.2
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -88,8 +88,8 @@ Filename: deb/choicy_1.3.2.deb
 Size: 106496
 MD5sum: 22f10bddce96af4fd0f6db7100bbab8d
 
-Package: com.opa334.choicy.cw
-Name: Choicy 1.3
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Choicy from MCP
 Version: 1.3
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -103,8 +103,8 @@ Filename: deb/choicy_1.3.deb
 Size: 118,784
 MD5sum: 3bc17c94ffbd77af82626ed9be9f4c55
 
-Package: com.opa334.choicy.cw
-Name: Choicy 1.3.1
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Choicy from MCP
 Version: 1.3.1
 Architecture: iphoneos-arm
 Description: Advanced Tweak Configuration!
@@ -118,8 +118,8 @@ Filename: deb/choicy_1.3.1.deb
 Size: 118784
 MD5sum: f6c6eabb0107db711390387a241c3e8e
 
-Package: com.thx.chpubg.cw
-Name: CHPUBG 1.5.1
+Package: https://www.facebook.com/MobileCenterPlus
+Name: CHPUBG from MCP
 Version: 1.5.1
 Architecture: iphoneos-arm
 Description: cleans PUBG game files to avoid absentee ban
@@ -133,8 +133,8 @@ Filename: deb/chpubg_1.5.1.deb
 Size: 888384
 MD5sum: 377bd3361e36fcd13c81124646ffbbc2
 
-Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++ 0.9.15
+Package: https://www.facebook.com/MobileCenterPlus
+Name: AppStore++ from MCP
 Version: 0.9.15
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -148,8 +148,8 @@ Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
 Size: 3018752
 MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
 
-Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++ 0.9.14-11
+Package: https://www.facebook.com/MobileCenterPlus
+Name: AppStore++ from MCP
 Version: 0.9.14-11
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -163,8 +163,8 @@ Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 
-Package: com.cokepokes.appstoreplusplus.cw
-Name: AppStore++ 0.9.14-10
+Package: https://www.facebook.com/MobileCenterPlus
+Name: AppStore++ from MCP
 Version: 0.9.14-10
 Architecture: iphoneos-arm
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -177,5 +177,80 @@ Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a59af6a65fc6657caab9500a49d679ce
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Watusi 2 for WhatsApp from MCP
+Version: 1.3.24
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Fouad Raheb
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.34), com.rpetrich.rocketbootstrap, applist
+Section: Tweaks
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Filename: deb/com.fouadraheb.watusi_1.3.24_iphoneos-arm.deb
+Size: 4169728
+MD5sum: 65dbfbe7e411adb370f21f8342717dee
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: HackApps from MCP
+Version: 2.0
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: hacker59
+Depends: mobilesubstrate
+Section: Tweaks
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Filename: deb/com.hackidevice.hackapps_2.0_iphoneos-arm.deb
+Size: 196608
+MD5sum: 2e32688eb2df3d618e07dac8627f238d
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: AltStore from MCP
+Version: 1.4.5
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Riley Testut
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Section: Utilities
+Depiction: https://cydia.ichitaso.com/depiction/altstore.html
+Filename: deb/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
+Size: 4591616
+MD5sum: MD5: 2ab8a810082f931e4a74f3e0199deabd
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: SafeShutdown from MCP
+Version: 1.72
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Kurrt
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Section: Tweaks
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
+Filename: deb/safeshutdown_1.72.deb
+Size: 9519104
+MD5sum: MD5: 236410e7cd88e41e5fe71d7843e234c0
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: SafeShutdown from MCP
+Version: 1.72
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Kurrt
+Depends: mobilesubstrate, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Section: Tweaks
+Depiction: https://kurrt.com/repo/safeshutdown/
+Filename: deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
+Size: 9539584
+MD5sum: MD5: 998f25d9e8862ea28bf13716bf4d3638
 
 
