@@ -8,7 +8,7 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia//description.html?id=me.liuming.apphider
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
 Filename: deb/apphider_2.0.3.deb
 Size: 2748416
 MD5sum: 9fafd6e77780bc55f505b12c9749f98a
@@ -23,7 +23,7 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia//description.html?id=me.liuming.apphider
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
 Filename: deb/apphider_2.0.5.deb
 Size: 2748416
 MD5sum: 77555235964957380ff8ed77b46014c0
@@ -38,8 +38,40 @@ Maintainer: Diaa Aldeen
 Author: liuming
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Section: Tweaks
-Depiction: http://apt.thebigboss.org/repofiles/cydia//description.html?id=me.liuming.apphider
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=me.liuming.apphider
 Filename: deb/apphider_2.0.6.deb
 Size: 2756608
 MD5sum: 375191a7f9045e97d5b245dab259d673
+
+Package: com.tigisoftware.appdatamanager.cw
+Name: Apps Manager
+Version: 1.6.0-9
+Architecture: iphoneos-arm
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: firmware (>= 7.0)
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.tigisoftware.appdatamanager
+Filename: deb/appsmanager_1.6.0-9.deb
+Size: 2465792
+MD5sum: 0ba512179dc4188e8858721268ff93f7
+
+Package: com.tigisoftware.appdatamanager.cw
+Name: Apps Manager
+Version: 1.5.3
+Architecture: iphoneos-arm
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: firmware (>= 7.0)
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.tigisoftware.appdatamanager
+Filename: deb/appsmanager_1.5.3.deb
+Size: 2457600
+MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
+
+
 
