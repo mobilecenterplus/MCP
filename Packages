@@ -253,4 +253,34 @@ Filename: deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
 Size: 9539584
 MD5sum: MD5: 998f25d9e8862ea28bf13716bf4d3638
 
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Liberty Lite from MCP
+Version: 0.2.12
+Architecture: iphoneos-arm
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Ryley Angus
+Depends: mobilesubstrate, preferenceloader, applist
+Section: Tweaks
+Depiction: https://www.facebook.com/MobileCenterPlus/photos/a.107563984750377/115410180632424/
+Filename: deb/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: MD5: 37298170685afadc9b2bf7f636dafba7
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Apps Manager from MCP
+Version: 1.6.1-4
+Architecture: iphoneos-arm
+Description:This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps 
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: firmware (>= 7.0)
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Filename: deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
+Size: 3678208
+MD5sum: MD5: 09e43caacfab84be80fbfa54edc21fb6
+
 
