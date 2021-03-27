@@ -73,5 +73,49 @@ Filename: deb/appsmanager_1.5.3.deb
 Size: 2457600
 MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
 
+Package: com.opa334.choicy.cw
+Name: Choicy
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: opa334
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Filename: deb/choicy_1.3.2.deb
+Size: 106496
+MD5sum: 22f10bddce96af4fd0f6db7100bbab8d
+
+Package: com.opa334.choicy.cw
+Name: Choicy
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: opa334
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Filename: deb/choicy_1.3.deb
+Size: 118,784
+MD5sum: 3bc17c94ffbd77af82626ed9be9f4c55
+
+Package: com.opa334.choicy.cw
+Name: Choicy
+Version: 1.3.1
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: opa334
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Depiction: http://apt.thebigboss.org/repofiles/cydia/description.html?id=com.opa334.choicy
+Filename: deb/choicy_1.3.1.deb
+Size: 118784
+MD5sum: f6c6eabb0107db711390387a241c3e8e
 
 
