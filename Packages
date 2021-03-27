@@ -221,7 +221,7 @@ Section: Utilities
 Depiction: https://cydia.ichitaso.com/depiction/altstore.html
 Filename: deb/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
 Size: 4591616
-MD5sum: MD5: 2ab8a810082f931e4a74f3e0199deabd
+MD5sum: 2ab8a810082f931e4a74f3e0199deabd
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: SafeShutdown from MCP
@@ -236,7 +236,7 @@ Section: Tweaks
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
 Filename: deb/safeshutdown_1.72.deb
 Size: 9519104
-MD5sum: MD5: 236410e7cd88e41e5fe71d7843e234c0
+MD5sum: 236410e7cd88e41e5fe71d7843e234c0
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: SafeShutdown from MCP
@@ -251,7 +251,7 @@ Section: Tweaks
 Depiction: https://kurrt.com/repo/safeshutdown/
 Filename: deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
 Size: 9539584
-MD5sum: MD5: 998f25d9e8862ea28bf13716bf4d3638
+MD5sum: 998f25d9e8862ea28bf13716bf4d3638
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: Liberty Lite from MCP
@@ -266,7 +266,7 @@ Section: Tweaks
 Depiction: https://www.facebook.com/MobileCenterPlus/photos/a.107563984750377/115410180632424/
 Filename: deb/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
 Size: 42210
-MD5sum: MD5: 37298170685afadc9b2bf7f636dafba7
+MD5sum: 37298170685afadc9b2bf7f636dafba7
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: Apps Manager from MCP
@@ -281,7 +281,7 @@ Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Filename: deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
 Size: 3678208
-MD5sum: MD5: 09e43caacfab84be80fbfa54edc21fb6
+MD5sum: 09e43caacfab84be80fbfa54edc21fb6
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: Filza File Manager from MCP
@@ -296,7 +296,7 @@ Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
 Filename: deb/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
 Size: 12951552
-MD5sum: MD5: 8942b83014cda56afbb56e70f8e3b888
+MD5sum: 8942b83014cda56afbb56e70f8e3b888
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: Filza File Manager 64-bit from MCP
@@ -311,7 +311,7 @@ Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
 Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
 Size: 8388608
-MD5sum: MD5: eb947177c58647ec420a31af4610a64c
+MD5sum: eb947177c58647ec420a31af4610a64c
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: HideJB from MCP
@@ -326,7 +326,7 @@ Section: Tweaks
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
 Filename: deb/hidejb_2.1.1.deb
 Size: 180224
-MD5sum: MD5: 519e773c3bbfa2af8625c45aba01c552
+MD5sum: 519e773c3bbfa2af8625c45aba01c552
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: iCleaner from MCP
@@ -341,7 +341,7 @@ Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
 Filename: deb/icleaner_7.9.1.deb
 Size: 4784128
-MD5sum: MD5: 29af21e056acc8dd1dc693ef00e1e175
+MD5sum: 29af21e056acc8dd1dc693ef00e1e175
 
 Package: https://www.facebook.com/MobileCenterPlus
 Name: iCleaner Pro from MCP
@@ -356,6 +356,50 @@ Section: Utilities
 Depiction: https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Filename: deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
 Size: 4788224
-MD5sum: MD5: ccd722461350e28e2e0b5a029416ca6c
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
 
+Package: https://www.facebook.com/MobileCenterPlus
+Name: FlyJB X from MCP
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: XsF1re
+Depends: mobilesubstrate
+Section: Tweaks
+Depiction: https://www.facebook.com/MobileCenterPlus/photos/a.107563984750377/115410180632424/
+Filename: deb/kr.xsf1re.flyjbx_1.2.0_iphoneos-arm.deb
+Size: 647168
+MD5sum: dd64f3be4df07ff72867cb3fcda58a62
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Sileo from MCP
+Version: 2.0.2
+Architecture: iphoneos-arm
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: Sileo Team
+Depends: apt (>= 2.1.10-1), coreutils (>=8.32-4), dpkg (>= 1.19.2-4), procursus-keyring, zsh, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Section: Packaging
+Depiction: https://repo.packix.com/package/com.yourepo.ahmed-almkls.arabicsileo/
+Filename: deb/org.coolstar.sileo_2.0.2_iphoneos-arm.deb
+Size: 3321856
+MD5sum: d1cb275444b17be92790ffeecffdbf08
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Arabic Fully Sileo from MCP
+Version: 1.3
+Architecture: iphoneos-arm
+Description: تعريب متجر سيليو بالكامل
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: ahmedmakls
+Depends: mobilesubstrate 
+Section: Tweaks
+Depiction: https://repo.packix.com/package/com.yourepo.ahmed-almkls.arabicsileo/
+Filename: deb/5d0b45fd869976001a7f538d.deb
+Size: 8192
+MD5sum: ab21a34d0fcbc85bf95203dff6203e94
 
