@@ -1,0 +1,16 @@
+Package: com.julioverne.cracktool4
+Name: CrackTool4 (iOS 12)
+Version: 4.0~beta5
+Architecture: iphoneos-arm
+Description: Crack Tweaks on one click
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Author: julioverne
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+Filename: deb/com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
+Size: 125248
+MD5sum: 1e1621b61280df46fefde1c779c01593
+
+
