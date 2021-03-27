@@ -52,7 +52,7 @@ Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: TIGI Software
 Depends: firmware (>= 7.0)
-Section: Tweaks
+Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Filename: deb/appsmanager_1.6.0-9.deb
 Size: 2465792
@@ -67,7 +67,7 @@ Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen
 Author: TIGI Software
 Depends: firmware (>= 7.0)
-Section: Tweaks
+Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
 Filename: deb/appsmanager_1.5.3.deb
 Size: 2457600
@@ -283,4 +283,47 @@ Filename: deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
 Size: 3678208
 MD5sum: MD5: 09e43caacfab84be80fbfa54edc21fb6
 
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Filza File Manager from MCP
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+ 
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Filename: deb/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
+Size: 12951552
+MD5sum: MD5: 8942b83014cda56afbb56e70f8e3b888
 
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Filza File Manager 64-bit from MCP
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8388608
+MD5sum: MD5: eb947177c58647ec420a31af4610a64c
+
+Package: https://www.facebook.com/MobileCenterPlus
+Name: Filza File Manager 64-bit from MCP
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Description:File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8388608
+MD5sum: MD5: eb947177c58647ec420a31af4610a64c
