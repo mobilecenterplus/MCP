@@ -1,4 +1,4 @@
-Package: me.liuming.apphider.cw
+Package: me.liuming.apphider
 Name: App Hider from MCP
 Version: 2.0.3
 Architecture: iphoneos-arm
@@ -13,7 +13,7 @@ Filename: deb/apphider_2.0.3.deb
 Size: 2748416
 MD5sum: 9fafd6e77780bc55f505b12c9749f98a
 
-Package: me.liuming.apphider.cw
+Package: me.liuming.apphider
 Name: App Hider 
 Version: 2.0.5
 Architecture: https://www.facebook.com/MobileCenterPlus
@@ -28,7 +28,7 @@ Filename: deb/apphider_2.0.5.deb
 Size: 2748416
 MD5sum: 77555235964957380ff8ed77b46014c0
 
-Package: me.liuming.apphider.cw
+Package: me.liuming.apphider
 Name: App Hider from MCP
 Version: 2.0.6
 Architecture: iphoneos-arm
@@ -43,7 +43,7 @@ Filename: deb/apphider_2.0.6.deb
 Size: 2756608
 MD5sum: 375191a7f9045e97d5b245dab259d673
 
-Package: com.tigisoftware.appdatamanager.cw
+Package: com.tigisoftware.appdatamanager
 Name: Apps Manager from MCP
 Version: 1.6.0-9
 Architecture: iphoneos-arm
@@ -58,7 +58,7 @@ Filename: deb/appsmanager_1.6.0-9.deb
 Size: 2465792
 MD5sum: 0ba512179dc4188e8858721268ff93f7
 
-Package: com.tigisoftware.appdatamanager.cw
+Package: com.tigisoftware.appdatamanager
 Name: Apps Manager from MCP
 Version: 1.5.3
 Architecture: iphoneos-arm
@@ -73,7 +73,7 @@ Filename: deb/appsmanager_1.5.3.deb
 Size: 2457600
 MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
 
-Package: com.opa334.choicy.cw
+Package: com.opa334.choicy
 Name: Choicy from MCP
 Version: 1.3.2
 Architecture: iphoneos-arm
@@ -88,7 +88,7 @@ Filename: deb/choicy_1.3.2.deb
 Size: 106496
 MD5sum: 22f10bddce96af4fd0f6db7100bbab8d
 
-Package: com.opa334.choicy.cw
+Package: com.opa334.choicy
 Name: Choicy from MCP
 Version: 1.3
 Architecture: iphoneos-arm
@@ -103,7 +103,7 @@ Filename: deb/choicy_1.3.deb
 Size: 118,784
 MD5sum: 3bc17c94ffbd77af82626ed9be9f4c55
 
-Package: com.opa334.choicy.cw
+Package: com.opa334.choicy
 Name: Choicy from MCP
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -118,7 +118,7 @@ Filename: deb/choicy_1.3.1.deb
 Size: 118784
 MD5sum: f6c6eabb0107db711390387a241c3e8e
 
-Package: com.thx.chpubg.cw
+Package: com.thx.chpubg
 Name: CHPUBG from MCP
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -133,7 +133,7 @@ Filename: deb/chpubg_1.5.1.deb
 Size: 888384
 MD5sum: 377bd3361e36fcd13c81124646ffbbc2
 
-Package: com.cokepokes.appstoreplusplus.cw
+Package: com.cokepokes.appstoreplusplus
 Name: AppStore++ from MCP
 Version: 0.9.15
 Architecture: iphoneos-arm
@@ -148,7 +148,7 @@ Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
 Size: 3018752
 MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
 
-Package: com.cokepokes.appstoreplusplus.cw
+Package: com.cokepokes.appstoreplusplus
 Name: AppStore++ from MCP
 Version: 0.9.14-11
 Architecture: iphoneos-arm
@@ -163,7 +163,7 @@ Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 
-Package: com.cokepokes.appstoreplusplus.cw
+Package: com.cokepokes.appstoreplusplus
 Name: AppStore++ from MCP
 Version: 0.9.14-10
 Architecture: iphoneos-arm
@@ -178,7 +178,7 @@ Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
 Size: 3006464
 MD5sum: a59af6a65fc6657caab9500a49d679ce
 
-Package: com.fouadraheb.watusi.cw
+Package: com.fouadraheb.watusi
 Name: Watusi 2 for WhatsApp from MCP
 Version: 1.3.24
 Architecture: iphoneos-arm
@@ -193,7 +193,7 @@ Filename: deb/com.fouadraheb.watusi_1.3.24_iphoneos-arm.deb
 Size: 4169728
 MD5sum: 65dbfbe7e411adb370f21f8342717dee
 
-Package: com.hackidevice.hackapps.cw
+Package: com.hackidevice.hackapps
 Name: HackApps from MCP
 Version: 2.0
 Architecture: iphoneos-arm
@@ -208,7 +208,7 @@ Filename: deb/com.hackidevice.hackapps_2.0_iphoneos-arm.deb
 Size: 196608
 MD5sum: 2e32688eb2df3d618e07dac8627f238d
 
-Package: com.ichitaso.altstore.cw
+Package: com.ichitaso.altstore
 Name: AltStore from MCP
 Version: 1.4.5
 Architecture: iphoneos-arm
@@ -223,7 +223,7 @@ Filename: deb/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
 Size: 4591616
 MD5sum: 2ab8a810082f931e4a74f3e0199deabd
 
-Package: com.kurrt.safeshutdown.cw
+Package: com.kurrt.safeshutdown
 Name: SafeShutdown from MCP
 Version: 1.72
 Architecture: iphoneos-arm
@@ -238,7 +238,7 @@ Filename: deb/safeshutdown_1.72.deb
 Size: 9519104
 MD5sum: 236410e7cd88e41e5fe71d7843e234c0
 
-Package: com.kurrt.safeshutdown.cw
+Package: com.kurrt.safeshutdown
 Name: SafeShutdown from MCP
 Version: 1.72
 Architecture: iphoneos-arm
@@ -253,7 +253,7 @@ Filename: deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
 Size: 9539584
 MD5sum: 998f25d9e8862ea28bf13716bf4d3638
 
-Package: com.ryleyangus.libertylite.beta.cw
+Package: com.ryleyangus.libertylite.beta
 Name: Liberty Lite from MCP
 Version: 0.2.12
 Architecture: iphoneos-arm
@@ -268,7 +268,7 @@ Filename: deb/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
 Size: 42210
 MD5sum: 37298170685afadc9b2bf7f636dafba7
 
-Package: com.tigisoftware.appdatamanager.cw
+Package: com.tigisoftware.appdatamanager
 Name: Apps Manager from MCP
 Version: 1.6.1-4
 Architecture: iphoneos-arm
@@ -283,7 +283,7 @@ Filename: deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
 Size: 3678208
 MD5sum: 09e43caacfab84be80fbfa54edc21fb6
 
-Package: com.tigisoftware.filza.cw
+Package: com.tigisoftware.filza
 Name: Filza File Manager from MCP
 Version: 3.8.2-4
 Architecture: iphoneos-arm
@@ -298,7 +298,7 @@ Filename: deb/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
 Size: 12951552
 MD5sum: 8942b83014cda56afbb56e70f8e3b888
 
-Package: com.tigisoftware.filza64bit.cw
+Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit from MCP
 Version: 3.8.2-4
 Architecture: iphoneos-arm
@@ -313,7 +313,7 @@ Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
 Size: 8388608
 MD5sum: eb947177c58647ec420a31af4610a64c
 
-Package: com.thuthuatjb.hidejb.cw
+Package: com.thuthuatjb.hidejb
 Name: HideJB from MCP
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -328,7 +328,7 @@ Filename: deb/hidejb_2.1.1.deb
 Size: 180224
 MD5sum: 519e773c3bbfa2af8625c45aba01c552
 
-Package: org.altervista.exilecom.icleaner.cw
+Package: org.altervista.exilecom.icleaner
 Name: iCleaner from MCP
 Version: 7.9.1
 Architecture: iphoneos-arm
@@ -343,7 +343,7 @@ Filename: deb/icleaner_7.9.1.deb
 Size: 4784128
 MD5sum: 29af21e056acc8dd1dc693ef00e1e175
 
-Package: com.exile90.icleanerpro.cw
+Package: com.exile90.icleanerpro
 Name: iCleaner Pro from MCP
 Version: 7.9.1
 Architecture: iphoneos-arm
@@ -358,7 +358,7 @@ Filename: deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
 Size: 4788224
 MD5sum: ccd722461350e28e2e0b5a029416ca6c
 
-Package: kr.xsf1re.flyjbx.cw
+Package: kr.xsf1re.flyjbx
 Name: FlyJB X from MCP
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -373,7 +373,7 @@ Filename: deb/kr.xsf1re.flyjbx_1.2.0_iphoneos-arm.deb
 Size: 647168
 MD5sum: dd64f3be4df07ff72867cb3fcda58a62
 
-Package: org.coolstar.sileo.cw
+Package: org.coolstar.sileo
 Name: Sileo from MCP
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -388,7 +388,7 @@ Filename: deb/org.coolstar.sileo_2.0.2_iphoneos-arm.deb
 Size: 3321856
 MD5sum: d1cb275444b17be92790ffeecffdbf08
 
-Package: com.yourepo.ahmed-almkls.arabicsileo.cw
+Package: com.yourepo.ahmed-almkls.arabicsileo
 Name: Arabic Fully Sileo from MCP
 Version: 1.3
 Architecture: iphoneos-arm
@@ -403,7 +403,7 @@ Filename: deb/5d0b45fd869976001a7f538d.deb
 Size: 8192
 MD5sum: ab21a34d0fcbc85bf95203dff6203e94
 
-Package: com.jack.pvzhd.cw
+Package: com.jack.pvzhd
 Name: Plants Vs. Zombies HD Hacks from MCP
 Version: 1.9.6-3
 Architecture: iphoneos-arm
@@ -418,8 +418,8 @@ Filename: deb/pvz197hack_1.9.8.deb
 Size: 16384
 MD5sum: 9cca72ea2cef92c296aad48fe0f0c17d
 
-Package: com.jack.pvzhd.cw
-Name: Plants Vs. Zombies HD Hacks from MCP
+Package: com.jack.pvzhd
+Name: snapbreak MCP
 Version: 1.9.6-3
 Architecture: iphoneos-arm
 Description: سناب بريك
