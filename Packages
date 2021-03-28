@@ -403,3 +403,32 @@ Filename: deb/5d0b45fd869976001a7f538d.deb
 Size: 8192
 MD5sum: ab21a34d0fcbc85bf95203dff6203e94
 
+Package: com.jack.pvzhd.cw
+Name: Plants Vs. Zombies HD Hacks from MCP
+Version: 1.9.6-3
+Architecture: iphoneos-arm
+Description: collection of PvZ HD Hacks
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: HackJack
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader, gsc.ipad, libstubhook
+Section: Tweaks
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvzipadhackDp
+Filename: deb/pvz197hack_1.9.8.deb
+Size: 16384
+MD5sum: 9cca72ea2cef92c296aad48fe0f0c17d
+
+Package: com.jack.pvzhd.cw
+Name: Plants Vs. Zombies HD Hacks from MCP
+Version: 1.9.6-3
+Architecture: iphoneos-arm
+Description: سناب بريك
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen
+Author: HackJack
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader, gsc.ipad, libstubhook
+Section: Tweaks
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvzipadhackDp
+Filename: deb/snapbreak_3297_iphoneos-arm.deb
+Size: 6123520
+MD5sum: 37d53cdbc31e0ac961a67919bce71f75
