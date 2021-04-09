@@ -1,0 +1,541 @@
+Author: liuming <liuminggui1993@163.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
+Package: me.liuming.apphider
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Section: Tweaks
+Installed-Size: 10220
+Version: 2.0.3
+Architecture: iphoneos-arm
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Filename: deb/apphider_2.0.3.deb
+Size: 2744520
+MD5sum: 9fafd6e77780bc55f505b12c9749f98a
+
+Author: liuming <liuminggui1993@163.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
+Package: me.liuming.apphider
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Section: Tweaks
+Installed-Size: 9920
+Version: 2.0.5
+Architecture: iphoneos-arm
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Filename: deb/apphider_2.0.5.deb
+Size: 2747558
+MD5sum: 77555235964957380ff8ed77b46014c0
+
+Author: liuming <liuminggui1993@163.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
+Package: me.liuming.apphider
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Section: Tweaks
+Installed-Size: 10920
+Version: 2.0.6
+Architecture: iphoneos-arm
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Filename: deb/apphider_2.0.6.deb
+Size: 2756308
+MD5sum: 375191a7f9045e97d5b245dab259d673
+
+Name: Apps Manager
+Package: com.tigisoftware.appdatamanager
+Priority: optional
+Depends: firmware (>= 7.0)
+Version: 1.6.0-9
+Architecture: iphoneos-arm
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 9122
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Filename: deb/appsmanager_1.6.0-9.deb
+Size: 2465674
+MD5sum: 0ba512179dc4188e8858721268ff93f7
+
+Name: Apps Manager
+Package: com.tigisoftware.appdatamanager
+Priority: optional
+Depends: firmware (>= 7.0)
+Version: 1.5.3
+Architecture: iphoneos-arm
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 9112
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Filename: deb/appsmanager_1.5.3.deb
+Size: 2457174
+MD5sum: 8239b4bdd5a32fc6a5a9e649bbd50883
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: Choicy
+Package: com.opa334.choicy
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Installed-Size: 802
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Filename: deb/choicy_1.3.2.deb
+Size: 102644
+MD5sum: 22f10bddce96af4fd0f6db7100bbab8d
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: Choicy
+Package: com.opa334.choicy
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Installed-Size: 800
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Filename: deb/choicy_1.3.deb
+Size: 117108
+MD5sum: 3bc17c94ffbd77af82626ed9be9f4c55
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: Choicy
+Package: com.opa334.choicy
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Installed-Size: 802
+Version: 1.3.1
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Filename: deb/choicy_1.3.1.deb
+Size: 117240
+MD5sum: f6c6eabb0107db711390387a241c3e8e
+
+Name: CHPUBG
+Package: com.thx.chpubg
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: cleans PUBG game files to avoid absentee ban
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chpubgDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chpubgDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: Thx <abdulmajeed-35@hotmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 1533
+dev: thx
+Filename: deb/chpubg_1.5.1.deb
+Size: 888384
+MD5sum: 377bd3361e36fcd13c81124646ffbbc2
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.15
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Icon:
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
+Size: 3017258
+MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.14-11
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Icon:
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
+Size: 3003986
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.14-10
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Icon:
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
+Size: 3003914
+MD5sum: a59af6a65fc6657caab9500a49d679ce
+
+Package: com.fouadraheb.watusi
+Name: Watusi 2 for WhatsApp
+Version: 1.3.24
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.34), com.rpetrich.rocketbootstrap, applist
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Architecture: iphoneos-arm
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Filename: deb/com.fouadraheb.watusi_1.3.24_iphoneos-arm.deb
+Size: 4166980
+MD5sum: 65dbfbe7e411adb370f21f8342717dee
+
+Package: com.hackidevice.hackapps
+Name: HackApps
+Version: 2.0
+Architecture: iphoneos-arm
+Author: hacker59 <hacker59200@gmail.com>
+Depends: mobilesubstrate
+Depiction: http://modmyi.com/info/hackapps.d.php
+Description: HackApps will allow you to hide native applications for iOS 
+Homepage: http://modmyi.com/info/hackapps.php
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Filename: deb/com.hackidevice.hackapps_2.0_iphoneos-arm.deb
+Size: 196092
+MD5sum: 2e32688eb2df3d618e07dac8627f238d
+
+Author: Riley Testut
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Package: com.ichitaso.altstore
+Name: AltStore
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces: com.ichitaso.altstore
+Section: Utilities
+Version: 1.4.5
+Architecture: iphoneos-arm
+Description: Jailbroken version of AltStore with on device signing feauture.
+Depiction: https://cydia.ichitaso.com/depiction/altstore.html
+Homepage: https://altstore.io/
+dev: Riley Testut
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/AltStore.app/AppIcon60x60@2x.png
+Filename: deb/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
+Size: 4591092
+MD5sum: 2ab8a810082f931e4a74f3e0199deabd
+
+Package: com.kurrt.safeshutdown
+Name: SafeShutdown
+Depends: mobilesubstrate, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Avoid re-jailbreaking when battery runs out.
+Homepage: https://kurrt.com/repo/safeshutdown
+Depiction: https://kurrt.com/repo/safeshutdown
+SileoDepiction: https://kurrt.com/repo/safeshutdown/sileo.php
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: Kurrt <dev@kurrt.com>
+Section: Tweaks
+Version: 1.72
+Installed-Size: 13912
+Filename: deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
+Size: 9537340
+MD5sum: 998f25d9e8862ea28bf13716bf4d3638
+
+Name: SafeShutdown
+Package: com.kurrt.safeshutdown
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Version: 1.72
+Architecture: iphoneos-arm
+Description: Avoid re-jailbreaking when battery runs out.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
+SileoDepiction: https://kurrt.com/repo/safeshutdown/sileo.php
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: Kurrt <dev@kurrt.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 13121
+dev: kurrt
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
+Filename: deb/safeshutdown_1.72.deb
+Size: 9518026
+MD5sum: 236410e7cd88e41e5fe71d7843e234c0
+
+Package: com.ryleyangus.libertylite.beta
+Name: Liberty Lite (Beta)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Architecture: iphoneos-arm
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.12
+Installed-Size: 616
+Depiction: 
+Filename: deb/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Version: 1.6.1-4
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps 
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: TIGI Software
+Depends: firmware (>= 7.0)
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Installed-Size: 9108
+Filename: deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
+Size: 3674432
+MD5sum: 09e43caacfab84be80fbfa54edc21fb6
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+ 
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Installed-Size: 32092
+Filename: deb/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
+Size: 12948918
+MD5sum: 8942b83014cda56afbb56e70f8e3b888
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Installed-Size: 21772
+Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8387434
+MD5sum: eb947177c58647ec420a31af4610a64c
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Author: TTJB Team <admin@thuthuatjb.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: HideJB
+Package: com.thuthuatjb.hidejb
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Section: Tweaks
+Installed-Size: 1929
+Version: 2.1.1
+Architecture: iphoneos-arm
+Description: Bybass jailbreak detection in certain apps
+dev: thuthuatjb
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/HideJBPrefs.bundle/icon@2x.png
+Filename: deb/hidejb_2.1.1.deb
+Size: 179376
+MD5sum: 519e773c3bbfa2af8625c45aba01c552
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: iCleaner
+Package: org.altervista.exilecom.icleaner
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils
+Section: Utilities
+Installed-Size: 17317
+Version: 7.9.1
+Architecture: iphoneos-arm
+Description: The first real iOS system cleaner & optimizer
+dev: exilecom
+Tag: purpose::uikit
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: deb/icleaner_7.9.1.deb
+Size: 4781602
+MD5sum: 29af21e056acc8dd1dc693ef00e1e175
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Version: 7.9.1
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4786998
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
+
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X 
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: XsF1re
+Depends: mobilesubstrate
+Section: Tweaks
+Depiction: https://www.facebook.com/MobileCenterPlus/photos/a.107563984750377/115410180632424/
+Filename: deb/kr.xsf1re.flyjbx_1.2.0_iphoneos-arm.deb
+Size: 647168
+MD5sum: dd64f3be4df07ff72867cb3fcda58a62
+
+Package: org.coolstar.sileo
+Priority: required
+Section: Packaging
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Architecture: iphoneos-arm
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+Depends: apt (>= 2.1.10-1), coreutils (>=8.32-4), dpkg (>= 1.19.2-4), procursus-keyring, zsh, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Tag: cydia::essential
+Version: 2.0.2
+Installed-Size: 12756
+Filename: deb/org.coolstar.sileo_2.0.2_iphoneos-arm.deb
+Size: 3320094
+MD5sum: d1cb275444b17be92790ffeecffdbf08
+
+Package: com.yourepo.ahmed-almkls.arabicsileo
+Name: Arabic Fully Sileo from MCP
+Version: 1.3
+Architecture: iphoneos-arm
+Description: تعريب متجر سيليو بالكامل
+Homepage: https://www.facebook.com/MobileCenterPlus
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Author: ahmedmakls
+Depends: mobilesubstrate 
+Section: Tweaks
+Depiction: https://repo.packix.com/package/com.yourepo.ahmed-almkls.arabicsileo/
+Filename: deb/5d0b45fd869976001a7f538d.deb
+Size: 5528
+MD5sum: ab21a34d0fcbc85bf95203dff6203e94
+
+Author: HackJack <jack.cydia@gmail.com>
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Name: Plants Vs. Zombies Hacks
+Package: com.iapphacks.pvz
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 40
+Version: 1.9.8
+Architecture: iphoneos-arm
+Description: collection of PvZ Hacks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvz197hackDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvz197hackDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jackthehacker249
+Tag: purpose::extension, role::enduser
+Icon: file:///Library/PreferenceBundles/pvz.bundle/pvz.png
+Filename: deb/pvz197hack_1.9.8.deb
+Size: 14770
+MD5sum: 9cca72ea2cef92c296aad48fe0f0c17d
+
+Package: com.yourepo.mohadu31.snapbreak
+Name: SnapBreak Edited iOS 14
+Version: 1.7.1k
+Architecture: iphoneos-arm
+Description: Snapbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
+Depiction: https://mohadu31.com/pack/snapbreak
+Author: DzMohaipa
+Section: iOS14
+Maintainer: Diaa Aldeen <mobilecenterplus@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Size: 6120596
+MD5sum: 37d53cdbc31e0ac961a67919bce71f75
