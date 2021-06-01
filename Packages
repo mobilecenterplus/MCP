@@ -3,7 +3,7 @@ Version: 2.0.8
 Architecture: iphoneos-arm
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
-Filename: deb/apphider_2.0.8
+Filename: deb/apphider_2.0.8.deb
 Size: 2718952
 MD5sum: 1c87e7e10564940338c6a782ac28e5a1
 SHA1: ba7df3962a511f22dce7d112ca813c4993532541
@@ -46,7 +46,7 @@ Package: com.tigisoftware.appdatamanager
 Version: 1.6.1-10
 Architecture: iphoneos-arm
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Filename: deb/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm
+Filename: deb/com.tigisoftware.appdatamanager_1.6.1-10_iphoneos-arm.deb
 Size: 3677508
 MD5sum: 64ae3998d4c3e283506a5228bd8789a1
 SHA1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
@@ -64,7 +64,7 @@ Version: 1.3.5
 Architecture: iphoneos-arm
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: deb/choicy_1.3.5
+Filename: deb/choicy_1.3.5.deb
 Size: 109300
 MD5sum: c97db4a1079c84bd859c80ee33c2fd38
 SHA1: 38fd418daad54cf7a080d08cee8ef13ed9671e15
@@ -81,122 +81,47 @@ Tag: purpose::extension
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 
-Name: CHPUBG
-Package: com.thx.chpubg
-Priority: optional
-Depends: mobilesubstrate, firmware (>= 9.0)
-Version: 1.5.1
-Architecture: iphoneos-arm
-Description: cleans PUBG game files to avoid absentee ban
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chpubgDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chpubgDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Author: Thx <abdulmajeed-35@hotmail.com>
-Section: Tweaks
-Tag: purpose::extension
-Installed-Size: 1533
-dev: opa334
-Filename: https://mobilecenterplus.github.io/MCP/deb/chpubg_1.5.1.deb
-Size: 888384
-MD5sum: 377bd3361e36fcd13c81124646ffbbc2
-
 Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.9.15
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
-Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces:
-Priority: optional
+Version: 0.9.16-2
 Architecture: iphoneos-arm
-Author: CokePokes
-dev:
-Homepage:
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Icon:
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
-Size: 3017258
-MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
-
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.9.14-11
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
-Section: Tweaks
 Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces:
-Priority: optional
-Architecture: iphoneos-arm
-Author: CokePokes
-dev:
-Homepage:
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Icon:
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
-Size: 3003986
-MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
-
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.9.14-10
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 3024992
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
 Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces:
-Priority: optional
-Architecture: iphoneos-arm
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
 Author: CokePokes
-dev:
-Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Icon:
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.cokepokes.appstoreplusplus_0.9.14-10_iphoneos-arm.deb
-Size: 3003914
-MD5sum: a59af6a65fc6657caab9500a49d679ce
+Name: AppStore++
+Homepage: https://cokepokes.github.io/depiction/appstoreplus.html
+Conflicts: com.unlimapps.uaupdatetools
 
 Package: com.fouadraheb.watusi
-Name: Watusi 2 for WhatsApp
-Version: 1.3.24
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.34), com.rpetrich.rocketbootstrap, applist
-Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Version: 1.4.6
 Architecture: iphoneos-arm
-Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.2.3), com.rpetrich.rocketbootstrap, applist
+Filename: deb/com.fouadraheb.watusi_1.4.6_iphoneos-arm.deb
+Size: 3971380
+MD5sum: f69d99ee6fa61af8698eedd900ff7f6c
+SHA1: 7201b622f6e3ebea46aef53772beac0f7cc6d7d8
+SHA256: 397f1bdf6f74a0ce6640433c1fb8616f0e79a97568a5a15abbdaa713da268cc1
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenge
+Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
-Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.fouadraheb.watusi_1.3.24_iphoneos-arm.deb
-Size: 4166980
-MD5sum: 65dbfbe7e411adb370f21f8342717dee
+Name: Watusi 2 for WhatsApp
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Homepage: https://apt.fouadraheb.com/package/com.fouadraheb.watusi
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 
-Package: com.hackidevice.hackapps
-Name: HackApps
-Version: 2.0
-Architecture: iphoneos-arm
-Author: hacker59 <hacker59200@gmail.com>
-Depends: mobilesubstrate
-Depiction: http://modmyi.com/info/hackapps.d.php
-Description: HackApps will allow you to hide native applications for iOS 
-Homepage: http://modmyi.com/info/hackapps.php
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Section: Tweaks
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.hackidevice.hackapps_2.0_iphoneos-arm.deb
-Size: 196092
-MD5sum: 2e32688eb2df3d618e07dac8627f238d
-
+Package: com.ichitaso.altstore
 Author: Riley Testut
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Package: com.ichitaso.altstore
 Name: AltStore
 Depends: firmware (>= 12.2), com.rileytestut.altdaemon
 Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
@@ -213,9 +138,11 @@ Icon: file:///Applications/AltStore.app/AppIcon60x60@2x.png
 Filename: https://mobilecenterplus.github.io/MCP/deb/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
 Size: 4591092
 MD5sum: 2ab8a810082f931e4a74f3e0199deabd
+SHA1: A3CF5DDAF7C21D093111F5BC51510135822A6BB0
+SHA256: 0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
 
 Package: com.kurrt.safeshutdown
-Name: SafeShutdown
+Name: SafeShutdown kurrt
 Depends: mobilesubstrate, firmware (>= 10.0), ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Description: Avoid re-jailbreaking when battery runs out.
@@ -230,9 +157,11 @@ Installed-Size: 13912
 Filename: https://mobilecenterplus.github.io/MCP/deb/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
 Size: 9537340
 MD5sum: 998f25d9e8862ea28bf13716bf4d3638
+SHA1: 29a6a31c894a2ae26030387516ad3659d9877ad6
+SHA256: 42f87bd8e4e1d1531f1b7df8b62ca02f39a544958174c68652934f71407f0fec
 
-Name: SafeShutdown
 Package: com.kurrt.safeshutdown
+Name: SafeShutdown
 Priority: optional
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
 Version: 1.72
@@ -252,6 +181,8 @@ Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutd
 Filename: https://mobilecenterplus.github.io/MCP/deb/safeshutdown_1.72.deb
 Size: 9518026
 MD5sum: 236410e7cd88e41e5fe71d7843e234c0
+SHA1: c3303319db40e5ceb7e26f8f7b12e0c0198e7e17
+SHA256: 98320253f54950f617108faa4f0a99eed16cdadd1f6f47957ea090b2674d7139
 
 Package: com.ryleyangus.libertylite.beta
 Name: Liberty Lite (Beta)
@@ -265,65 +196,56 @@ Section: Tweaks
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Version: 0.2.12
 Installed-Size: 616
-Depiction: 
 Filename: https://mobilecenterplus.github.io/MCP/deb/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
 Size: 42210
 MD5sum: 37298170685afadc9b2bf7f636dafba7
-
-Package: com.tigisoftware.appdatamanager
-Name: Apps Manager
-Version: 1.6.1-4
-Architecture: iphoneos-arm
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps 
-Homepage: https://www.facebook.com/MobileCenterPlus
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Author: TIGI Software
-Depends: firmware (>= 7.0)
-Section: Utilities
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
-Installed-Size: 9108
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.tigisoftware.appdatamanager_1.6.1-4_iphoneos-arm.deb
-Size: 3674432
-MD5sum: 09e43caacfab84be80fbfa54edc21fb6
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
 
 Package: com.tigisoftware.filza
+Version: 3.8.2-6
+Architecture: iphoneos-arm
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: deb/com.tigisoftware.filza_3.8.2-6_iphoneos-arm.deb
+Size: 12949488
+MD5sum: 54e37794629466440fd2ed735c239fe3
+SHA1: a70a1bcdb5e307f77a0dd032324d9805889f5e1f
+SHA256: c52e40a3e23715c80bb0b44516500e98ff86fbe1123f3d0a23ad28877bcea0ec
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+.
+Author: TIGI Software
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
 Name: Filza File Manager
-Version: 3.8.2-4
-Architecture: iphoneos-arm
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+ 
-Homepage: https://www.facebook.com/MobileCenterPlus
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Author: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
-Section: Utilities
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Installed-Size: 32092
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
-Size: 12948918
-MD5sum: 8942b83014cda56afbb56e70f8e3b888
+Installed-Size: 32108
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Conflicts : com.tigisoftware.filza64bit
 
-Package: com.tigisoftware.filza64bit
-Name: Filza File Manager 64-bit
-Version: 3.8.2-4
+Package: com.tigisoftware.filza
+Version: 3.8.2-6
 Architecture: iphoneos-arm
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: deb/com.tigisoftware.filza_3.8.2-6_iphoneos-arm.deb
+Size: 8387192
+MD5sum: 6b5b72b96b8249d976ce7b8db2da67c6
+SHA1: 5d4b197de8f2f3833b49ce20f7cc4e4a812b791a
+SHA256: ad9acf44d249ee16df0caa9d2047edb2ddad220b325d6ef4390a4e4208535a6b
+Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
-Homepage: https://www.facebook.com/MobileCenterPlus
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Author: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
-Section: Utilities
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Installed-Size: 21772
-Filename: https://mobilecenterplus.github.io/MCP/deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
-Size: 8387434
-MD5sum: eb947177c58647ec420a31af4610a64c
+Name: Filza File Manager 64-bit
+Installed-Size: 21788
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Conflicts : com.tigisoftware.filza64bit
 
+Package: com.thuthuatjb.hidejb
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
 Author: TTJB Team <admin@thuthuatjb.com>
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Name: HideJB
-Package: com.thuthuatjb.hidejb
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
 Section: Tweaks
 Installed-Size: 1929
@@ -336,13 +258,15 @@ Icon: file:///Library/PreferenceBundles/HideJBPrefs.bundle/icon@2x.png
 Filename: https://mobilecenterplus.github.io/MCP/deb/hidejb_2.1.1.deb
 Size: 179376
 MD5sum: 519e773c3bbfa2af8625c45aba01c552
+SHA1: a199f6eb6ca8529a506047830d1943517742ad3d
+SHA256: 3160dca6db4bc6b9577c4df430a00e82be84f9c0ccdbf80c36859911319e504b
 
+Package: org.altervista.exilecom.icleaner
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
 Author: Ivano Bilenchi <support@ib-soft.net>
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Name: iCleaner
-Package: org.altervista.exilecom.icleaner
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils
 Section: Utilities
 Installed-Size: 17317
@@ -355,6 +279,8 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Filename: https://mobilecenterplus.github.io/MCP/deb/icleaner_7.9.1.deb
 Size: 4781602
 MD5sum: 29af21e056acc8dd1dc693ef00e1e175
+SHA1: 2880af26d3ade68e8f45bd01ce030beff70534a9
+SHA256: ea5846336437802dfabb976ca7571f3921ed6fe1e4196ea1ba84d0c45893b334
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
@@ -372,22 +298,27 @@ Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Filename: https://mobilecenterplus.github.io/MCP/deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
 Size: 4786998
-MD5sum: ccd722461350e28e2e0b5a029416ca6c
+MD5sum: e1529be5a0eceb137f0a07e8c31f5349
+SHA1: d23ee71e004892d2035550af798212dde37acfec
+SHA256: 822bce40f9954226457fd2a5586e974fa8e302e767134e6b14fe7a70ecaa60d5
 
 Package: kr.xsf1re.flyjbx
-Name: FlyJB X 
-Version: 1.2.0
+Name: FlyJB X
+Version: 1.2.5
 Architecture: iphoneos-arm
 Description: You can HIDE Doing jailbreak your iDevice.
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Author: XsF1re
 Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
 Section: Tweaks
 Depiction: https://www.facebook.com/MobileCenterPlus/photos/a.107563984750377/115410180632424/
-Filename: https://mobilecenterplus.github.io/MCP/deb/kr.xsf1re.flyjbx_1.2.0_iphoneos-arm.deb
-Size: 647168
-MD5sum: dd64f3be4df07ff72867cb3fcda58a62
+Filename: https://mobilecenterplus.github.io/MCP/deb/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 649864
+MD5sum: 5e955e26724e79ff8ca45032679f9cd9
+SHA1: 7fb5d1a3982b471a2af9e47e904d4d0519df3a16
+SHA256: 96491acad71a3696950acf68b06075c04a8e3753164221f7e8f16fe7ca528419
 
 Package: org.coolstar.sileo
 Priority: required
@@ -396,18 +327,20 @@ Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Architecture: iphoneos-arm
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
-Depends: apt (>= 2.1.10-1), coreutils (>=8.32-4), dpkg (>= 1.19.2-4), procursus-keyring, zsh, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0)
 Conflicts: cydia-gui (<<99.0)
 Pre-Depends: debianutils, dpkg (>= 1.18)
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Description: A modern APT package manager frontend. (View this package in Sileo to see the full depiction)
 Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
-Version: 2.0.2
+Version: 2.1-1
 Installed-Size: 12756
-Filename: https://mobilecenterplus.github.io/MCP/deb/org.coolstar.sileo_2.0.2_iphoneos-arm.deb
-Size: 3320094
-MD5sum: d1cb275444b17be92790ffeecffdbf08
+Filename: https://mobilecenterplus.github.io/MCP/deb/org.coolstar.sileo_2.1-1_iphoneos-arm.deb
+Size: 2355428
+MD5sum: 393639ba946f4465e4acaaac9a5dde0e
+SHA1: 60b5928fb9beff838b8957bd42892cf6734af810
+SHA256: 4c7c112301ffb1f5d9491a1653030211710e7bf02f7f74391650251012165f76
 
 Package: com.yourepo.ahmed-almkls.arabicsileo
 Name: Arabic Fully Sileo from MCP
@@ -417,32 +350,13 @@ Description: تعريب متجر سيليو بالكامل
 Homepage: https://www.facebook.com/MobileCenterPlus
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Author: ahmedmakls
-Depends: mobilesubstrate 
 Section: Tweaks
 Depiction: https://repo.packix.com/package/com.yourepo.ahmed-almkls.arabicsileo/
 Filename: https://mobilecenterplus.github.io/MCP/deb/5d0b45fd869976001a7f538d.deb
 Size: 5528
 MD5sum: ab21a34d0fcbc85bf95203dff6203e94
-
-Author: HackJack <jack.cydia@gmail.com>
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Name: Plants Vs. Zombies Hacks
-Package: com.iapphacks.pvz
-Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 40
-Version: 1.9.8
-Architecture: iphoneos-arm
-Description: collection of PvZ Hacks
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvz197hackDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pvz197hackDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: jackthehacker249
-Tag: purpose::extension, role::enduser
-Icon: file:///Library/PreferenceBundles/pvz.bundle/pvz.png
-Filename: https://mobilecenterplus.github.io/MCP/deb/pvz197hack_1.9.8.deb
-Size: 14770
-MD5sum: 9cca72ea2cef92c296aad48fe0f0c17d
+SHA1: 0313878715260943faf159358cb507cb4d809aff
+SHA256: d99902b4ec2933087fa74bb1d049ae153d2b9a2b9c747e66e5a0998c8c7cecab
 
 Package: com.yourepo.mohadu31.snapbreak
 Name: SnapBreak Edited iOS 14
@@ -457,7 +371,9 @@ Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
 Size: 6120596
 MD5sum: 37d53cdbc31e0ac961a67919bce71f75
-Filename: https://mobilecenterplus.github.io/MCP/deb/snapbreak_doarm.deb
+SHA1: a47930cbe568b9312d85773d61204706e980c5e0
+SHA256: c3b3d6b3c9223539a47d2a0bb269ef3402f18386c47db3d457e029ca09acd972
+Filename: https://mobilecenterplus.github.io/MCP/deb/snapbreak_3297_iphoneos-arm.deb
 
 Package: com.rileytestut.altdaemon
 Section: System
@@ -475,3 +391,23 @@ MD5sum: d83660c2d5119ac6ecce72236b27cfae4
 SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
 SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
 Depiction: https://mobilecenterplus.github.io/MCP/packageInfo/AltDeamon.html
+
+Package: jp.soh.reprovision
+Name: ReProvision Reborn
+Version: 0.6.1~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Author: Soh Satoh, Matt Clarke
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Description: Re-sign applications on your device
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Size: 14666572
+MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
+SHA1: 7448c4c13f7dc447cb930d45c0407e623cadc931
+SHA256: 6e6e1660f58dea70ecac157b606706ad9950629bf83623b1a3afeedcbd939dee
+Filename: https://mobilecenterplus.github.io/MCP/deb/ReprovisionReborn.deb
