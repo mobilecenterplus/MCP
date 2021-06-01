@@ -1,78 +1,77 @@
-Author: liuming <liuminggui1993@163.com>
-Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
-Section: Tweaks
-Installed-Size: 10220
-Description: Hide your Apps from SpringBoard
-    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: liuming
-Tag: purpose::extension, role::enduser
-Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
-Filename: https://mobilecenterplus.github.io/MCP/deb/apphider_2.0.3.deb
-Size: 2744520
-MD5sum: 9fafd6e77780bc55f505b12c9749f98a
-
 Package:me.liuming.apphider
 Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
-Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 1346934
-MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
-SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
-SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
+Conflicts:
+Filename: deb/apphider_2.0.3.deb
+Size: 2744520
+MD5sum: 9fafd6e77780bc55f505b12c9749f98a
+SHA1: 31aa8a27b5a5648ec718a882397da84e1ea97637
+SHA256: a89e798c8b68a94ad870bf09594a9ae348b430a3e62e025d1a2b581508e213b6
 Section: Tweaks
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++
-
+Priority: 
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
 Author: liuming <liuminggui1993@163.com>
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
-Package: me.liuming.apphider
-Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
-Section: Tweaks
-Installed-Size: 9920
+Installed-Size: 10220
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+
+Package:me.liuming.apphider
 Version: 2.0.5
 Architecture: iphoneos-arm
-Description: Hide your Apps from SpringBoard
-    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: liuming
-Tag: purpose::extension, role::enduser
-Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
-Filename: https://mobilecenterplus.github.io/MCP/deb/apphider_2.0.5.deb
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Conflicts:
+Filename: deb/apphider_2.0.5.deb
 Size: 2747558
 MD5sum: 77555235964957380ff8ed77b46014c0
-
-Author: liuming <liuminggui1993@163.com>
-Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
-Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
-Package: me.liuming.apphider
-Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+SHA1: 7e9f1c6b9ee062b42667db5e977ea2b5d39cc801
+SHA256: cca6a85582b6501422c35bc3bd78c29ec17291d9e3f838e1263fb5e61d9bbde1
 Section: Tweaks
-Installed-Size: 10920
-Version: 2.0.6
-Architecture: iphoneos-arm
+Priority: 
 Description: Hide your Apps from SpringBoard
     App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Author: liuming <liuminggui1993@163.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Name: App Hider(应用隐藏) 2.0.5
+Installed-Size: 9920
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: liuming
 Tag: purpose::extension, role::enduser
 Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
-Filename: https://mobilecenterplus.github.io/MCP/deb/apphider_2.0.6.deb
-Size: 2756308
-MD5sum: 375191a7f9045e97d5b245dab259d673
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+
+Package:me.liuming.apphider
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Conflicts:
+Filename: deb/apphider_2.0.6.deb
+Size: 2747558
+MD5sum: 77555235964957380ff8ed77b46014c0
+SHA1: 7e9f1c6b9ee062b42667db5e977ea2b5d39cc801
+SHA256: cca6a85582b6501422c35bc3bd78c29ec17291d9e3f838e1263fb5e61d9bbde1
+Section: Tweaks
+Priority: 
+Description: Hide your Apps from SpringBoard
+    App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don't want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.
+Author: liuming <liuminggui1993@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+Name: App Hider(应用隐藏) 2.0.6
+Installed-Size: 10920
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: liuming
+Tag: purpose::extension, role::enduser
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 
 Name: Apps Manager
 Package: com.tigisoftware.appdatamanager
