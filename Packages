@@ -411,3 +411,25 @@ MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
 SHA1: 7448c4c13f7dc447cb930d45c0407e623cadc931
 SHA256: 6e6e1660f58dea70ecac157b606706ad9950629bf83623b1a3afeedcbd939dee
 Filename: https://mobilecenterplus.github.io/MCP/deb/ReprovisionReborn.deb
+Depiction: https://repo.packix.com/package/jp.soh.reprovision/
+
+Package: jp.soh.reprovision
+Name: ReProvision Reborn diaa
+Version: 0.6.2~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends : firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Author: Soh Satoh, Matt Clarke
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Description: Re-sign applications on your device
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Size: 14667432
+MD5sum: d1f99bfa8aa62d5281416c973c9d12ce
+SHA1: d5c24c64df51f891a1e94b8d45bdeb997650d79f
+SHA256: 48b09b6d92e45ccd49c4249a025592247c9283342561b3615d532acc16844c43
+Filename: https://mobilecenterplus.github.io/MCP/deb/605c561d3ef224001ad5acf9.deb
+Depiction: https://repo.packix.com/package/jp.soh.reprovision/
