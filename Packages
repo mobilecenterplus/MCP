@@ -327,20 +327,20 @@ Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
 Architecture: iphoneos-arm
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
-Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0)
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
 Conflicts: cydia-gui (<<99.0)
 Pre-Depends: debianutils, dpkg (>= 1.18)
 Description: A modern APT package manager frontend. (View this package in Sileo to see the full depiction)
 Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
-Version: 2.1-1
-Installed-Size: 12756
-Filename: https://mobilecenterplus.github.io/MCP/deb/org.coolstar.sileo_2.1-1_iphoneos-arm.deb
-Size: 2355428
-MD5sum: 393639ba946f4465e4acaaac9a5dde0e
-SHA1: 60b5928fb9beff838b8957bd42892cf6734af810
-SHA256: 4c7c112301ffb1f5d9491a1653030211710e7bf02f7f74391650251012165f76
+Version: 2.0.2-tale1
+Installed-Size: 12476
+Filename: https://mobilecenterplus.github.io/MCP/deb/org.coolstar.sileo_2.0.2-tale1_iphoneos-arm.deb
+Size: 3265240
+MD5sum: 1f1b55ae4280e07a927d36fc2d49af6f
+SHA1: 56ca0749380a8488ef38de2bd6a830b43ce28413
+SHA256: 83edab20bd03203ba4cba277cbc0384a56cbf26627892270e925780ef466784e
 
 Package: com.yourepo.ahmed-almkls.arabicsileo
 Name: Arabic Fully Sileo from MCP
@@ -433,3 +433,5 @@ SHA1: d5c24c64df51f891a1e94b8d45bdeb997650d79f
 SHA256: 48b09b6d92e45ccd49c4249a025592247c9283342561b3615d532acc16844c43
 Filename: https://mobilecenterplus.github.io/MCP/deb/605c561d3ef224001ad5acf9.deb
 Depiction: https://repo.packix.com/package/jp.soh.reprovision/
+
+
