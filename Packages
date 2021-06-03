@@ -410,7 +410,7 @@ Size: 14666572
 MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
 SHA1: 7448c4c13f7dc447cb930d45c0407e623cadc931
 SHA256: 6e6e1660f58dea70ecac157b606706ad9950629bf83623b1a3afeedcbd939dee
-Filename: https://mobilecenterplus.github.io/MCP/deb/ReprovisionReborn.deb
+Filename: deb/ReprovisionReborn.deb
 Depiction: https://repo.packix.com/package/jp.soh.reprovision/
 
 Package: jp.soh.reprovision
@@ -431,7 +431,23 @@ Size: 14667432
 MD5sum: d1f99bfa8aa62d5281416c973c9d12ce
 SHA1: d5c24c64df51f891a1e94b8d45bdeb997650d79f
 SHA256: 48b09b6d92e45ccd49c4249a025592247c9283342561b3615d532acc16844c43
-Filename: https://mobilecenterplus.github.io/MCP/deb/605c561d3ef224001ad5acf9.deb
+Filename: MCP/deb/605c561d3ef224001ad5acf9.deb
 Depiction: https://repo.packix.com/package/jp.soh.reprovision/
 
-
+Package: xyz.willy.zebra
+Section: Packaging
+Maintainer: Diaa Aldeen <mobilecenterplus2021@gmail.com>
+Architecture: iphoneos-arm
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: A Useful Package Manager
+Tag: compatible::9.0-14.4
+Name: Zebra
+Author: Wilson Styres <wilson@styres.me>
+Version: 1.1.19
+Installed-Size: 58372
+Filename: deb/xyz.willy.zebra_1.1.19_iphoneos-arm.deb
+Size: 19117906
+MD5sum: bd9a96b4739e3a41e06c437f227ce404
+SHA1: 3bc549bc30aa550ed52a9b0908bcfe06712dfb76
+SHA256: 32630e520330ebee23e1d896d11f48788684979e6159906f71c048cb1d076b68
